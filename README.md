@@ -4,12 +4,12 @@ Este é um projeto da trilha do NADIC para criar uma biblioteca, desde o modelo 
 
 ## Modelo Conceitual
 
-Identificamos entidades como Livros, Usuários e Empréstimos, definindo seus atributos e relações.
+Identifiquei entidades como Livros, Usuários e Empréstimos, definindo seus atributos e relações.
 
 ## Modelo Relacional
 
-Mapeamos o modelo conceitual para um modelo relacional, convertendo entidades em tabelas e definindo chaves estrangeiras.
+Mapeei o modelo conceitual para um modelo relacional, convertendo entidades em tabelas e definindo chaves estrangeiras.
 
 ## Implementação do Banco de Dados
 
-Utilizamos um SGBDR (foi usado o MySQLWorkbench) para implementar o banco de dados.
+Utilizei um SGBDR (foi usado o MySQLWorkbench) para implementar o banco de dados.
