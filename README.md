@@ -1,4 +1,4 @@
-# Projeto Trilha NADIC: Biblioteca
+# Projeto Banco de Dados Trilha NADIC: Biblioteca
 
 Este é um projeto da trilha do NADIC para criar uma biblioteca, desde o modelo conceitual até a implementação do banco de dados.
 
